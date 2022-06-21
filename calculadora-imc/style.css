@@ -45,6 +45,7 @@ main{
     outline: 0;
     font: bold 1.5rem serif;
     text-align: center;
+    box-shadow: inset;
   }
   
   .input label {
